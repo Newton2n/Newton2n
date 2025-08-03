@@ -59,9 +59,7 @@ Continuous learning and improving my craft are my top priorities as I strive to 
 ## 📫 Let's Connect
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://linkedin.com/in/newton-bepari" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
+  
   <a href="mailto:newtonbeparii@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
