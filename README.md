@@ -32,14 +32,6 @@ Continuous learning and improving my craft are my top priorities as I strive to 
 
 ## 🛠️ Tech Stack
 
-| Category           | Tools & Technologies                                  |
-|--------------------|-------------------------------------------------------|
-| 🌐 Markup          | `HTML5`, `Semantic HTML`                              |
-| 🎨 Styling         | `CSS3`, `Tailwind CSS`, `Responsive Design`           |
-| ⚡ Interactivity    | `JavaScript (ES6+)`, `DOM Manipulation`, `Event Handling` |
-| 📱 User Experience | `Mobile-First Design`, `Cross-Browser Compatibility`  |
-
----
 
 ## 💼 Projects
 
