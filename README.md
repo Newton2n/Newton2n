@@ -52,7 +52,7 @@ Continuous learning and improving my craft are my top priorities as I strive to 
 
 <div align="center" style="margin-top: 10px;">
   
-  <a href="mailto:newtonbeparii@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="mailto:newtonyt04@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/newton2n" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
