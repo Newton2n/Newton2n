@@ -2,7 +2,7 @@
   <!-- Top languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newton2n&layout=compact&theme=dracula" height="150" alt="Top languages" />
   <!-- Snake animation GIF -->
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Snake Animation" />
+<!--   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Snake Animation" /> -->
 </div>
 
 <h1 align="center">🌐 Newton — Front-End Developer</h1>
