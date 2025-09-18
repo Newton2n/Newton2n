@@ -1,8 +1,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
   <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newton2n&layout=compact&theme=dracula" height="150" alt="Top languages" />
-  <!-- Snake animation GIF -->
-<!--   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Snake Animation" /> -->
+
+
 </div>
 
 <h1 align="center">🌐 Newton — Front-End Developer</h1>
@@ -16,15 +15,17 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive&logoColor=white" />
 </p>
+
 
 ---
 
 ## 👋 About Me
 
 Hello! I'm **Newton**, a passionate self-taught front-end developer based in Bangladesh 🇧🇩.  
-I specialize in creating **beautiful**, **responsive**, and **user-friendly** websites using **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**.
+I specialize in creating **beautiful**, **responsive**, and **user-friendly** websites using **HTML**, **CSS**, **Tailwind CSS**, **JavaScript** and **React** for better reusability .
 
 Continuous learning and improving my craft are my top priorities as I strive to build seamless digital experiences.
 
@@ -42,7 +43,7 @@ Continuous learning and improving my craft are my top priorities as I strive to 
 
 - 🔧 **See more projects available on [my GitHub](https://github.com/newton2n).**
 
-- 🚧 **New projects coming soon… stay tuned!**
+- 🚧 **New projects continuously coming se on my git hub**
 
 </div>
 
