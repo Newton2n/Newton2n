@@ -1,19 +1,15 @@
-<h1>🌐 Newton — Front-End Developer</h1>
+<h1>Hi, I'm Newton 👋</h1>
+<h4>Front-End Developer | React & Next.js Ecosystem </h4>
 
-<p>
-I build modern, responsive web applications with clean, maintainable code and polished user experiences.
-</p>
+I build modern, responsive web applications with a focus on clean, maintainable code and polished user experiences.  
 
-<p>
-Skilled in <strong>React, Next.js, TypeScript, and Appwrite</strong>, with experience creating full-stack applications.
-</p>
+🛠️ Tech Stack: TypeScript, React, Next.js , Tailwind CSS and Appwrite  
 
-<p>
-<strong>Featured Projects:</strong><br>
-• <a href="https://newtondev.vercel.app/" target="_blank" rel="noopener noreferrer">NewtonDev Portfolio</a> — my professional front-end showcase<br>
-• <a href="https://blog-app-kappa-ebon.vercel.app/" target="_blank" rel="noopener noreferrer">Postora</a> — a full-stack app inspired by Pinterest
-</p>
+🚀 Currently focused on: Full-stack application architecture  
 
-<p>
-🔗 Visit my portfolio: <a href="https://newtondev.vercel.app/" target="_blank" rel="noopener noreferrer">NewtonDev</a>
-</p>
+💼 Portfolio: [NewtonDev](https://newtondev.vercel.app/) 
+
+🛠️ Featured Projects:  
+- [Postora](https://postora-web.vercel.app/) — A full-stack image-sharing platform built with React and Appwrite.
+  
+- [NewtonDev](https://newtondev.vercel.app/) — My portfolio website.
