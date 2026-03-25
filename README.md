@@ -1,11 +1,14 @@
 <h1>Hi, I'm Newton 👋</h1>
-<h4>Front-End Developer | React & Next.js Ecosystem </h4>
+<h4>Full Stack Developer | Next.js • React • Node.js • Express • TypeScript</h4>
 
-I build modern, responsive web applications with a focus on clean, maintainable code and polished user experiences.  
+I build scalable, high-performance web applications with a focus on clean architecture and polished UX. Currently,
+</br>
 
-🛠️ Tech Stack: TypeScript, React, Next.js , Tailwind CSS and Appwrite  
+I’m obsessed with optimizing the full-stack flow between Next.js and Express.
 
-🚀 Currently focused on: Full-stack application architecture  
+🛠️ Tech Stack: TypeScript, React, Next.js , Node.js ,Express , Tailwind CSS and Appwrite  
+
+🚀 Currently focused on: Building Full-stack application 
 
 💼 Portfolio: [NewtonDev](https://newtondev.vercel.app/) 
 
