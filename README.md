@@ -8,7 +8,7 @@ I’m obsessed with optimizing the full-stack flow between Next.js and Express.
 
 🛠️ Tech Stack: TypeScript, React, Next.js , Node.js ,Express , Tailwind CSS and Appwrite  
 
-🚀 Currently focused on: Building Full-stack application 
+🚀 Currently focused on: Building Full-stack Development (PERN STACK)
 
 💼 Portfolio: [NewtonDev](https://newtondev.vercel.app/) 
 
